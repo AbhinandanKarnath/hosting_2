@@ -1,0 +1,1163 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+"num_results": 15,
+"last_modified": "2019-08-29T20:54:03-04:00",
+"results": {
+  "list_name": "Hardcover Fiction",
+  "list_name_encoded": "hardcover-fiction",
+  "bestsellers_date": "2019-01-05",
+  "published_date": "2019-01-20",
+  "published_date_description": "",
+  "next_published_date": "2019-01-27",
+  "previous_published_date": "2019-01-13",
+  "display_name": "Hardcover Fiction",
+  "normal_list_ends_at": 15,
+  "updated": "WEEKLY",
+  "books": [
+    {
+      "rank": 1,
+      "rank_last_week": 5,
+      "weeks_on_list": 18,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "0735219095",
+      "primary_isbn13": "9780735219090",
+      "publisher": "Putnam",
+      "description": "A woman who survived alone in the marsh becomes a murder suspect.",
+      "price": "0.00",
+      "title": "WHERE THE CRAWDADS SING",
+      "author": "Delia Owens",
+      "contributor": "by Delia Owens",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780735219090.jpg",
+      "book_image_width": 328,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "0735219095",
+          "isbn13": "9780735219090"
+        },
+        {
+          "isbn10": "0735219117",
+          "isbn13": "9780735219113"
+        },
+        {
+          "isbn10": "0525640371",
+          "isbn13": "9780525640370"
+        },
+        {
+          "isbn10": "0593105419",
+          "isbn13": "9780593105412"
+        },
+        {
+          "isbn10": "0593187989",
+          "isbn13": "9780593187982"
+        },
+        {
+          "isbn10": "0525640363",
+          "isbn13": "9780525640363"
+        },
+        {
+          "isbn10": "0735219109",
+          "isbn13": "9780735219106"
+        },
+        {
+          "isbn10": "0593540484",
+          "isbn13": "9780593540480"
+        },
+        {
+          "isbn10": "0593540352",
+          "isbn13": "9780593540350"
+        },
+        {
+          "isbn10": "1984827618",
+          "isbn13": "9781984827616"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens/dp/0735219095?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780735219090?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219090"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FWHERE%2BTHE%2BCRAWDADS%2BSING%2FDelia%2BOwens%2F9780735219090"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780735219090"
+        }
+      ],
+      "book_uri": "nyt://book/053b4109-4555-5aa1-9b39-cc40549bcdf0"
+    },
+    {
+      "rank": 2,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "1538747200",
+      "primary_isbn13": "9781538747209",
+      "publisher": "Grand Central",
+      "description": "Agents Pendergast and Coldmoon track a killer who removes hearts and leaves handwritten letters.",
+      "price": "0.00",
+      "title": "VERSES FOR THE DEAD",
+      "author": "Douglas Preston and Lincoln Child",
+      "contributor": "by Douglas Preston and Lincoln Child",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538747209.jpg",
+      "book_image_width": 329,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Verses-Agent-Pendergast-Douglas-Preston/dp/1538747200?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "1538747200",
+          "isbn13": "9781538747209"
+        },
+        {
+          "isbn10": "1538749246",
+          "isbn13": "9781538750094"
+        },
+        {
+          "isbn10": "1538747189",
+          "isbn13": "9781538747186"
+        },
+        {
+          "isbn10": "1549142216",
+          "isbn13": "9781549142215"
+        },
+        {
+          "isbn10": "1549142224",
+          "isbn13": "9781549142222"
+        },
+        {
+          "isbn10": "1549148303",
+          "isbn13": "9781549148309"
+        },
+        {
+          "isbn10": "154914829X",
+          "isbn13": "9781549148293"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Verses-Agent-Pendergast-Douglas-Preston/dp/1538747200?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538747209?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538747209"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FVERSES%2BFOR%2BTHE%2BDEAD%2FDouglas%2BPreston%2Band%2BLincoln%2BChild%2F9781538747209"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538747209"
+        }
+      ],
+      "book_uri": "nyt://book/0643aab6-9550-594b-bb33-feec562b6958"
+    },
+    {
+      "rank": 3,
+      "rank_last_week": 1,
+      "weeks_on_list": 11,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "0385544154",
+      "primary_isbn13": "9780385544153",
+      "publisher": "Doubleday",
+      "description": "A decorated World War II veteran shoots and kills a pastor.",
+      "price": "0.00",
+      "title": "THE RECKONING",
+      "author": "John Grisham",
+      "contributor": "by John Grisham",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385544160.jpg",
+      "book_image_width": 326,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Reckoning-Novel-John-Grisham-ebook/dp/B079DBS447?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "0385544154",
+          "isbn13": "9780385544153"
+        },
+        {
+          "isbn10": "0385544162",
+          "isbn13": "9780385544160"
+        },
+        {
+          "isbn10": "052563925X",
+          "isbn13": "9780525639251"
+        },
+        {
+          "isbn10": "0525639292",
+          "isbn13": "9780525639299"
+        },
+        {
+          "isbn10": "0385544170",
+          "isbn13": "9780385544177"
+        },
+        {
+          "isbn10": "1984819585",
+          "isbn13": "9781984819581"
+        },
+        {
+          "isbn10": "0525620931",
+          "isbn13": "9780525620938"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Reckoning-Novel-John-Grisham-ebook/dp/B079DBS447?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780385544153?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385544153"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BRECKONING%2FJohn%2BGrisham%2F9780385544153"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780385544153"
+        }
+      ],
+      "book_uri": "nyt://book/3ee62d10-7341-5e71-8603-2acc2eeaaa0d"
+    },
+    {
+      "rank": 4,
+      "rank_last_week": 2,
+      "weeks_on_list": 7,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "152479628X",
+      "primary_isbn13": "9781524796280",
+      "publisher": "Bantam",
+      "description": "The first volume of the two-part history of the Targaryens in Westeros.",
+      "price": "0.00",
+      "title": "FIRE AND BLOOD",
+      "author": "George R.R. Martin",
+      "contributor": "by George R.R. Martin",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524796280.jpg",
+      "book_image_width": 326,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History/dp/152479628X?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "152479628X",
+          "isbn13": "9781524796280"
+        },
+        {
+          "isbn10": "1524796298",
+          "isbn13": "9781524796297"
+        },
+        {
+          "isbn10": "1984838695",
+          "isbn13": "9781984838698"
+        },
+        {
+          "isbn10": "0593598008",
+          "isbn13": "9780593598009"
+        },
+        {
+          "isbn10": "0593598016",
+          "isbn13": "9780593598016"
+        },
+        {
+          "isbn10": "0593357531",
+          "isbn13": "9780593357538"
+        },
+        {
+          "isbn10": "1524796301",
+          "isbn13": "9781524796303"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History/dp/152479628X?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781524796280?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524796280"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FFIRE%2BAND%2BBLOOD%2FGeorge%2BR.R.%2BMartin%2F9781524796280"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781524796280"
+        }
+      ],
+      "book_uri": "nyt://book/afc6c8b8-532c-559e-a0d1-2eb6cd094f7d"
+    },
+    {
+      "rank": 5,
+      "rank_last_week": 3,
+      "weeks_on_list": 12,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "1538728524",
+      "primary_isbn13": "9781538728529",
+      "publisher": "Grand Central",
+      "description": "Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.",
+      "price": "0.00",
+      "title": "EVERY BREATH",
+      "author": "Nicholas Sparks",
+      "contributor": "by Nicholas Sparks",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538728529.jpg",
+      "book_image_width": 329,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Every-Breath-Nicholas-Sparks/dp/1538728524?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "1538728524",
+          "isbn13": "9781538728529"
+        },
+        {
+          "isbn10": "1538715775",
+          "isbn13": "9781538763995"
+        },
+        {
+          "isbn10": "1538728532",
+          "isbn13": "9781538728536"
+        },
+        {
+          "isbn10": "1538728540",
+          "isbn13": "9781538728543"
+        },
+        {
+          "isbn10": "1538728559",
+          "isbn13": "9781538728550"
+        },
+        {
+          "isbn10": "153871468X",
+          "isbn13": "9781538714683"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Every-Breath-Nicholas-Sparks/dp/1538728524?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538728529?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538728529"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FEVERY%2BBREATH%2FNicholas%2BSparks%2F9781538728529"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538728529"
+        }
+      ],
+      "book_uri": "nyt://book/a4b91b12-9435-5ebb-b4aa-1ecb31da3215"
+    },
+    {
+      "rank": 6,
+      "rank_last_week": 0,
+      "weeks_on_list": 6,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "0316556343",
+      "primary_isbn13": "9780316556347",
+      "publisher": "Little, Brown",
+      "description": "Zeus banishes Helios' daughter to an island, where she must choose between living with gods or mortals.",
+      "price": "0.00",
+      "title": "CIRCE",
+      "author": "Madeline Miller",
+      "contributor": "by Madeline Miller",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316556347.jpg",
+      "book_image_width": 319,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "https://www.nytimes.com/2018/05/28/books/review/circe-madeline-miller.html",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "0316556343",
+          "isbn13": "9780316556347"
+        },
+        {
+          "isbn10": "0316556335",
+          "isbn13": "9780316556330"
+        },
+        {
+          "isbn10": "1478975318",
+          "isbn13": "9781478975311"
+        },
+        {
+          "isbn10": "1549171763",
+          "isbn13": "9781549171765"
+        },
+        {
+          "isbn10": "1549142380",
+          "isbn13": "9781549142383"
+        },
+        {
+          "isbn10": "0316556327",
+          "isbn13": "9780316556323"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Circe-Madeline-Miller/dp/0316556343?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316556347?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316556347"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FCIRCE%2FMadeline%2BMiller%2F9780316556347"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316556347"
+        }
+      ],
+      "book_uri": "nyt://book/0d6987e8-edf4-5edb-bb2f-94213e6757af"
+    },
+    {
+      "rank": 7,
+      "rank_last_week": 9,
+      "weeks_on_list": 9,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "1250069823",
+      "primary_isbn13": "9781250069825",
+      "publisher": "Flatiron",
+      "description": "A romance writer becomes fascinated by the owner and director of a health resort.",
+      "price": "0.00",
+      "title": "NINE PERFECT STRANGERS",
+      "author": "Liane Moriarty",
+      "contributor": "by Liane Moriarty",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250069849.jpg",
+      "book_image_width": 330,
+      "book_image_height": 493,
+      "amazon_product_url": "https://www.amazon.com/Nine-Perfect-Strangers-Liane-Moriarty-ebook/dp/B07C75GRLY?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "https://www.nytimes.com/2018/11/21/books/review/liane-moriarty-nine-perfect-strangers.html",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "1250069823",
+          "isbn13": "9781250069825"
+        },
+        {
+          "isbn10": "125006984X",
+          "isbn13": "9781250069849"
+        },
+        {
+          "isbn10": "1432859005",
+          "isbn13": "9781432859008"
+        },
+        {
+          "isbn10": "1427299145",
+          "isbn13": "9781427299147"
+        },
+        {
+          "isbn10": "1250069831",
+          "isbn13": "9781250069832"
+        },
+        {
+          "isbn10": "1250818400",
+          "isbn13": "9781250818409"
+        },
+        {
+          "isbn10": "1432859013",
+          "isbn13": "9781432859015"
+        },
+        {
+          "isbn10": "1250818397",
+          "isbn13": "9781250818393"
+        },
+        {
+          "isbn10": "1250755832",
+          "isbn13": "9781250755834"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Nine-Perfect-Strangers-Liane-Moriarty-ebook/dp/B07C75GRLY?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781250069825?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250069825"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FNINE%2BPERFECT%2BSTRANGERS%2FLiane%2BMoriarty%2F9781250069825"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781250069825"
+        }
+      ],
+      "book_uri": "nyt://book/9238d95f-a22b-511f-9655-4cb6df237ce5"
+    },
+    {
+      "rank": 8,
+      "rank_last_week": 4,
+      "weeks_on_list": 7,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "0316273945",
+      "primary_isbn13": "9780316273947",
+      "publisher": "Little, Brown",
+      "description": "Alex Cross returns for the 26th book in the series bearing his name.",
+      "price": "0.00",
+      "title": "TARGET: ALEX CROSS",
+      "author": "James Patterson",
+      "contributor": "by James Patterson",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316417501.jpg",
+      "book_image_width": 320,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Target-Alex-Cross-James-Patterson-ebook/dp/B07C4Q7JX8?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "0316273945",
+          "isbn13": "9780316273947"
+        },
+        {
+          "isbn10": "0316417505",
+          "isbn13": "9780316417501"
+        },
+        {
+          "isbn10": "1538713764",
+          "isbn13": "9781538713761"
+        },
+        {
+          "isbn10": "1538713772",
+          "isbn13": "9781538713778"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Target-Alex-Cross-James-Patterson-ebook/dp/B07C4Q7JX8?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316273947?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316273947"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTARGET%253A%2BALEX%2BCROSS%2FJames%2BPatterson%2F9780316273947"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316273947"
+        }
+      ],
+      "book_uri": "nyt://book/1cd90973-4a91-5e88-927d-2fa6b7c3c0d3"
+    },
+    {
+      "rank": 9,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "0735219257",
+      "primary_isbn13": "9780735219250",
+      "publisher": "Putnam",
+      "description": "The 48th book in the Stone Barrington series.",
+      "price": "0.00",
+      "title": "A DELICATE TOUCH",
+      "author": "Stuart Woods",
+      "contributor": "by Stuart Woods",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780735219274.jpg",
+      "book_image_width": 328,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Delicate-Touch-Stone-Barrington-Novel-ebook/dp/B07DH8GWMS?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "0735219257",
+          "isbn13": "9780735219250"
+        },
+        {
+          "isbn10": "0735219273",
+          "isbn13": "9780735219274"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Delicate-Touch-Stone-Barrington-Novel-ebook/dp/B07DH8GWMS?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780735219250?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219250"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FA%2BDELICATE%2BTOUCH%2FStuart%2BWoods%2F9780735219250"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780735219250"
+        }
+      ],
+      "book_uri": "nyt://book/d4244a58-1c1b-5c74-bf73-06ec14089a7e"
+    },
+    {
+      "rank": 10,
+      "rank_last_week": 12,
+      "weeks_on_list": 9,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "0316484806",
+      "primary_isbn13": "9780316484800",
+      "publisher": "Little, Brown",
+      "description": "Detective Renée Ballard teams up with the retired detective Harry Bosch, who is working on a cold case.",
+      "price": "0.00",
+      "title": "DARK SACRED NIGHT",
+      "author": "Michael Connelly",
+      "contributor": "by Michael Connelly",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316486675.jpg",
+      "book_image_width": 320,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Sacred-Night-Ballard-Bosch-Novel-ebook/dp/B0796R3RR4?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "0316484806",
+          "isbn13": "9780316484800"
+        },
+        {
+          "isbn10": "031652672X",
+          "isbn13": "9780316526722"
+        },
+        {
+          "isbn10": "0316486671",
+          "isbn13": "9780316486675"
+        },
+        {
+          "isbn10": "1549142321",
+          "isbn13": "9781549142321"
+        },
+        {
+          "isbn10": "1549142305",
+          "isbn13": "9781549142307"
+        },
+        {
+          "isbn10": "1549121049",
+          "isbn13": "9781549121043"
+        },
+        {
+          "isbn10": "1549121057",
+          "isbn13": "9781549121050"
+        },
+        {
+          "isbn10": "1549142313",
+          "isbn13": "9781549142314"
+        },
+        {
+          "isbn10": "1549142291",
+          "isbn13": "9781549142291"
+        },
+        {
+          "isbn10": "1538731754",
+          "isbn13": "9781538731758"
+        },
+        {
+          "isbn10": "1538731762",
+          "isbn13": "9781538731765"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Sacred-Night-Ballard-Bosch-Novel-ebook/dp/B0796R3RR4?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780316484800?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316484800"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDARK%2BSACRED%2BNIGHT%2FMichael%2BConnelly%2F9780316484800"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780316484800"
+        }
+      ],
+      "book_uri": "nyt://book/6927f115-73f3-5741-8b85-932ac3d6fa33"
+    },
+    {
+      "rank": 11,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "1101985399",
+      "primary_isbn13": "9781101985397",
+      "publisher": "Dutton",
+      "description": "Nick Fourcade and Annie Broussard, a husband-and-wife detective team, investigate a boy’s murder and the disappearance of his babysitter.",
+      "price": "0.00",
+      "title": "THE BOY",
+      "author": "Tami Hoag",
+      "contributor": "by Tami Hoag",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781101985403.jpg",
+      "book_image_width": 327,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Boy-Novel-Tami-Hoag-ebook/dp/B01MEFV17D?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "1101985399",
+          "isbn13": "9781101985397"
+        },
+        {
+          "isbn10": "1101985402",
+          "isbn13": "9781101985403"
+        },
+        {
+          "isbn10": "1101985429",
+          "isbn13": "9781101985427"
+        },
+        {
+          "isbn10": "1101985410",
+          "isbn13": "9781101985410"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Boy-Novel-Tami-Hoag-ebook/dp/B01MEFV17D?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781101985397?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101985397"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BBOY%2FTami%2BHoag%2F9781101985397"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781101985397"
+        }
+      ],
+      "book_uri": "nyt://book/a433d15d-9952-5149-a440-58efe221767a"
+    },
+    {
+      "rank": 12,
+      "rank_last_week": 10,
+      "weeks_on_list": 8,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "1538761572",
+      "primary_isbn13": "9781538761571",
+      "publisher": "Grand Central",
+      "description": "The F.B.I. agent Atlee Pine must choose between protecting her career or the United States' democracy.",
+      "price": "0.00",
+      "title": "LONG ROAD TO MERCY",
+      "author": "David Baldacci",
+      "contributor": "by David Baldacci",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781538761571.jpg",
+      "book_image_width": 328,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Long-Road-Mercy-Atlee-Pine/dp/1538761572?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "1538761572",
+          "isbn13": "9781538761571"
+        },
+        {
+          "isbn10": "1538714701",
+          "isbn13": "9781538714706"
+        },
+        {
+          "isbn10": "1478999284",
+          "isbn13": "9781478999287"
+        },
+        {
+          "isbn10": "1549194739",
+          "isbn13": "9781549194733"
+        },
+        {
+          "isbn10": "1549194720",
+          "isbn13": "9781549194726"
+        },
+        {
+          "isbn10": "1478999292",
+          "isbn13": "9781478999294"
+        },
+        {
+          "isbn10": "1549176277",
+          "isbn13": "9781549176272"
+        },
+        {
+          "isbn10": "153876153X",
+          "isbn13": "9781538761533"
+        },
+        {
+          "isbn10": "1538761548",
+          "isbn13": "9781538761540"
+        },
+        {
+          "isbn10": "1549153080",
+          "isbn13": "9781549153082"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Long-Road-Mercy-Atlee-Pine/dp/1538761572?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781538761571?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538761571"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FLONG%2BROAD%2BTO%2BMERCY%2FDavid%2BBaldacci%2F9781538761571"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781538761571"
+        }
+      ],
+      "book_uri": "nyt://book/04e059bc-9dd0-52da-9952-0f7ea56707f8"
+    },
+    {
+      "rank": 13,
+      "rank_last_week": 8,
+      "weeks_on_list": 9,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "0399593519",
+      "primary_isbn13": "9780399593512",
+      "publisher": "Delacorte",
+      "description": "Jack Reacher explores the New England town where his father was born.",
+      "price": "0.00",
+      "title": "PAST TENSE",
+      "author": "Lee Child",
+      "contributor": "by Lee Child",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9780399593512.jpg",
+      "book_image_width": 320,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/Past-Tense-Jack-Reacher-Novel/dp/0399593519?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "0399593519",
+          "isbn13": "9780399593512"
+        },
+        {
+          "isbn10": "0399593527",
+          "isbn13": "9780399593529"
+        },
+        {
+          "isbn10": "1524774316",
+          "isbn13": "9781524774318"
+        },
+        {
+          "isbn10": "1984847538",
+          "isbn13": "9781984847539"
+        },
+        {
+          "isbn10": "1984820834",
+          "isbn13": "9781984820839"
+        },
+        {
+          "isbn10": "0399593535",
+          "isbn13": "9780399593536"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Past-Tense-Jack-Reacher-Novel/dp/0399593519?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9780399593512?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399593512"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FPAST%2BTENSE%2FLee%2BChild%2F9780399593512"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9780399593512"
+        }
+      ],
+      "book_uri": "nyt://book/525b4908-a820-578c-ad53-d7ef3b1bdcf7"
+    },
+    {
+      "rank": 14,
+      "rank_last_week": 7,
+      "weeks_on_list": 10,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "1982102314",
+      "primary_isbn13": "9781982102319",
+      "publisher": "Scribner",
+      "description": "A man who is losing weight without getting thinner forms an unlikely alliance with his neighbors who are dealing with prejudices.",
+      "price": "0.00",
+      "title": "ELEVATION",
+      "author": "Stephen King",
+      "contributor": "by Stephen King",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982102319.jpg",
+      "book_image_width": 330,
+      "book_image_height": 465,
+      "amazon_product_url": "https://www.amazon.com/Elevation-Stephen-King/dp/1982102314?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "https://www.nytimes.com/2018/10/26/books/review/stephen-king-elevation.html",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "1982102314",
+          "isbn13": "9781982102319"
+        },
+        {
+          "isbn10": "1982102330",
+          "isbn13": "9781982102333"
+        },
+        {
+          "isbn10": "1432858068",
+          "isbn13": "9781432858063"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Elevation-Stephen-King/dp/1982102314?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781982102319?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982102319"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FELEVATION%2FStephen%2BKing%2F9781982102319"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781982102319"
+        }
+      ],
+      "book_uri": "nyt://book/5426023b-10bf-5358-8b1b-fd9632867077"
+    },
+    {
+      "rank": 15,
+      "rank_last_week": 0,
+      "weeks_on_list": 11,
+      "asterisk": 0,
+      "dagger": 0,
+      "primary_isbn10": "1616208775",
+      "primary_isbn13": "9781616208776",
+      "publisher": "Algonquin",
+      "description": "A newlywed couple's relationship is tested when the husband is sentenced to 12 years in prison.",
+      "price": "0.00",
+      "title": "AN AMERICAN MARRIAGE",
+      "author": "Tayari Jones",
+      "contributor": "by Tayari Jones",
+      "contributor_note": "",
+      "book_image": "https://storage.googleapis.com/du-prd/books/images/9781616207601.jpg",
+      "book_image_width": 330,
+      "book_image_height": 495,
+      "amazon_product_url": "https://www.amazon.com/American-Marriage-Novel-Oprahs-Selection-ebook/dp/B01NCUXEFR?tag=thenewyorktim-20",
+      "age_group": "",
+      "book_review_link": "https://www.nytimes.com/2018/02/06/books/review/american-marriage-tayari-jones.html",
+      "first_chapter_link": "",
+      "sunday_review_link": "",
+      "article_chapter_link": "",
+      "isbns": [
+        {
+          "isbn10": "1616201347",
+          "isbn13": "9781616201340"
+        },
+        {
+          "isbn10": "1616208775",
+          "isbn13": "9781616208776"
+        },
+        {
+          "isbn10": "1616207604",
+          "isbn13": "9781616207601"
+        },
+        {
+          "isbn10": "1681688344",
+          "isbn13": "9781681688343"
+        },
+        {
+          "isbn10": "1681688336",
+          "isbn13": "9781681688336"
+        },
+        {
+          "isbn10": "1616208686",
+          "isbn13": "9781616208684"
+        }
+      ],
+      "buy_links": [
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/American-Marriage-Novel-Oprahs-Selection-ebook/dp/B01NCUXEFR?tag=thenewyorktim-20"
+        },
+        {
+          "name": "Apple Books",
+          "url": "https://goto.applebooks.apple/9781616208776?at=10lIEQ"
+        },
+        {
+          "name": "Barnes and Noble",
+          "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781616208776"
+        },
+        {
+          "name": "Books-A-Million",
+          "url": "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FAN%2BAMERICAN%2BMARRIAGE%2FTayari%2BJones%2F9781616208776"
+        },
+        {
+          "name": "Bookshop.org",
+          "url": "https://bookshop.org/a/3546/9781616208776"
+        }
+      ],
+      "book_uri": "nyt://book/52dbee9e-2403-5e7f-8e83-87b73cb3f492"
+    }
+  ],
+  "corrections": []
+}
+}

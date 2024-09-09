@@ -1,0 +1,72 @@
+[
+    {
+        "courseId": "C101",
+        "title": "Introduction to Web Development",
+        "instructor": "ak",
+        "duration": "10 hours",
+        "rating": 4.5,
+        "category": "Web",
+        "price": "50rs",
+        "enrolled": "2500"
+    },
+    {
+        "courseId": "C102",
+        "title": "Advanced Python Programming",
+        "instructor": "abhi",
+        "duration": "15 hours",
+        "rating": 4.7,
+        "category": "Programming",
+        "price": "75rs",
+        "enrolled": "1800"
+    },
+    {
+        "courseId": "C103",
+        "title": "Python",
+        "instructor": "Emily Johnson",
+        "duration": "12 hours",
+        "rating": 4.6,
+        "category": "Data Science",
+        "price": "60rs",
+        "enrolled": "2200"
+    },
+    {
+        "courseId": "C104",
+        "title": "React for Beginners",
+        "instructor": "Michael Brown",
+        "duration": "8 hours",
+        "rating": 4.4,
+        "category": "Web Development",
+        "price": "40rs",
+        "enrolled": "3000"
+    },
+    {
+        "courseId": "C105",
+        "title": "Machine Learning Basics",
+        "instructor": "Sarah Davis",
+        "duration": "20 hours",
+        "rating": 4.8,
+        "category": "Data Science",
+        "price": "100rs",
+        "enrolled": "1500"
+    },
+    {
+        "courseId": "C106",
+        "title": "C Programming Fundamentals",
+        "instructor": "David Wilson",
+        "duration": "10 hours",
+        "rating": 4.3,
+        "category": "Programming",
+        "price": "50rs",
+        "enrolled": "2000"
+    },
+    {
+        "courseId": "C107",
+        "title": "C++",
+        "instructor": "David Wilson",
+        "duration": "10 hours",
+        "rating": 4.3,
+        "category": "Programming",
+        "price": "50rs",
+        "enrolled": "2000"
+    }
+]
